@@ -1,0 +1,65 @@
+body{
+    background-color: #fff;
+}
+
+.u-item_btn {
+    margin: 20px auto;
+    width: 60%;
+    height: 1rem;
+    line-height: 1rem;
+}
+.u-pages {
+    width: 100%;
+    min-height: 70vh;
+}
+
+#app {
+    width: 100vw;
+    height: 100vh;
+    overflow-y: auto;
+}
+#app {
+    overflow-y: auto;
+}
+#app::-webkit-scrollbar-track-piece {
+    background-color: rgba(0, 0, 0, 0);
+    border-left: 1px solid rgba(0, 0, 0, 0);
+}
+#app::-webkit-scrollbar {
+    width: 4px;
+    height: 13px;
+    border-radius: 2px;
+}
+#app::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.2);
+    background-clip: padding-box;
+    border-radius: 5px;
+    min-height: 20px;
+}
+#app::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.slide-right-enter-active, .slide-right-leave-active, .slide-left-enter-active, .slide-left-leave-active {
+    will-change: transform;
+    transition: all 500ms;
+    position: absolute;
+    min-height: 100%;
+}
+.slide-right-enter {
+    opacity: 0;
+    transform: translate3d(-30%, 0, 0);
+}
+.slide-right-leave-active {
+    opacity: 0;
+    transform: translate3d(30%, 0, 0);
+}
+.slide-left-enter {
+    opacity: 0;
+    transform: translate3d(30%, 0, 0);
+}
+.slide-left-leave-active {
+    opacity: 0;
+    transform: translate3d(-30%, 0, 0);
+}
