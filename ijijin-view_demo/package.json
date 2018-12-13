@@ -10,7 +10,8 @@
   "dependencies": {
     "vue": "^2.5.16",
     "vue-router": "^3.0.1",
-    "vuex": "^3.0.1"
+    "vuex": "^3.0.1",
+	"ijijin-view": "^1.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-rc.3",
