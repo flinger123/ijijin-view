@@ -1,0 +1,28 @@
+{
+  "name": "ijijin-view",
+  "version": "0.9.0",
+  "description": "vuejs UI components, from ijijin.",
+  "main": "index.js",
+  "dependencies": {
+	"ijijin_builder": "^2.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichealWayne/ijijin-view.git"
+  },
+  "keywords": [
+    "ui"，
+	"vue",
+	"components",
+	"ijijin"
+  ],
+  "author": "Micheal Wayne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichealWayne/ijijin-view/issues"
+  },
+  "homepage": "https://github.com/MichealWayne/ijijin-view#readme"
+}

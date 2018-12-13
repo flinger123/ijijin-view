@@ -1,0 +1,17 @@
+# components
+- Alert弹窗
+- Button按钮
+- HorseRaceLamp滚动通知
+- Icon图标（全量）
+- IconMin图标（少）
+- Input输入框
+- less样式目录
+- Mask遮罩层
+- Picker选择器
+- PickerGroup选择器组
+- PullRefresh下拉刷新
+- PullWindow上拉弹窗
+- Slider+SliderItem轮播图
+- TabHead+TabBody+TabBodyItem Tab栏
+- Toast通知提示
+- utils方法
