@@ -1,6 +1,6 @@
 # ijijin-view
 
-![logo](//fund.10jqka.com.cn/public/ijijin-view/dist/logo.png)
+![logo](https://fund.10jqka.com.cn/public/ijijin-view/dist/logo.png)
 
 <a href="https://www.npmjs.com/package/ijijin-view" rel="nofollow"><img src="https://camo.githubusercontent.com/bcfb674d175b56d413a752e309470e5611073ba8/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f40616e74762f66322e737667" alt="npm package" data-canonical-src="https://img.shields.io/npm/v/@antv/f2.svg" style="max-width:100%;"></a>
 
