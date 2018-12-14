@@ -13,9 +13,9 @@
 </template>
 
 <script>
-    import TabHead from '@/components/TabHead'
-    import TabBody from '@/components/TabBody'
-    import TabBodyItem from '@/components/TabBodyItem'
+    import TabHead from 'ijijin-view/vue/TabHead'
+    import TabBody from 'ijijin-view/vue/TabBody'
+    import TabBodyItem from 'ijijin-view/vue/TabBodyItem'
     export default {
         name: "Tab",
         data(){

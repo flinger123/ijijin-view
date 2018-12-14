@@ -3,7 +3,7 @@ import App from './App.vue'
 import router from './router'
 import '@/functions/rem'
 import './index.less'
-import '@/components'
+import 'ijijin-view/vue'
 
 Vue.config.productionTip = false
 

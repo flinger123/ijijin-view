@@ -13,7 +13,7 @@
 </template>
 
 <script>
-    import HorseRaceLamp from '@/components/HorseRaceLamp'
+    import HorseRaceLamp from 'ijijin-view/vue/HorseRaceLamp'
 
     export default {
         name: "HorseRaceLamp",

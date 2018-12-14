@@ -43,8 +43,8 @@
 </template>
 
 <script>
-    import Slider from '@/components/Slider'
-    import SliderItem from '@/components/SliderItem'
+    import Slider from 'ijijin-view/vue/Slider'
+    import SliderItem from 'ijijin-view/vue/SliderItem'
 
     export default {
         name: "Sliders",

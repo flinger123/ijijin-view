@@ -30,7 +30,7 @@
 </template>
 
 <script>
-    import PullRefresh from '@/components/PullRefresh'
+    import PullRefresh from 'ijijin-view/vue/PullRefresh'
 
     export default {
         name: "PullRefresh",

@@ -293,7 +293,7 @@
 </template>
 
 <script>
-    import Icon from '@/components/Icon'
+    import Icon from 'ijijin-view/vue/Icon'
 
     export default {
         name: 'Button',

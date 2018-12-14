@@ -26,8 +26,8 @@
 </template>
 
 <script>
-    import Picker from '@/components/Picker'
-    import PickerGroup from '@/components/PickerGroup'
+    import Picker from 'ijijin-view/vue/Picker'
+    import PickerGroup from 'ijijin-view/vue/PickerGroup'
 
     let provincesData = [
         {provinces: '浙江', city: ['杭州', '温州', '嘉兴', '海宁', '绍兴']},

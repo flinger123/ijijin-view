@@ -77,7 +77,7 @@
 </template>
 
 <script>
-    import Input from '@/components/Input'
+    import Input from 'ijijin-view/vue/Input'
 
     export default {
         name: 'Input',

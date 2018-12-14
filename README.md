@@ -1,5 +1,12 @@
 # ijijin-view
 
+![logo](//fund.10jqka.com.cn/public/ijijin-view/dist/logo.png)
+
+<a href="https://www.npmjs.com/package/ijijin-view" rel="nofollow"><img src="https://camo.githubusercontent.com/bcfb674d175b56d413a752e309470e5611073ba8/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f40616e74762f66322e737667" alt="npm package" data-canonical-src="https://img.shields.io/npm/v/@antv/f2.svg" style="max-width:100%;"></a>
+
+- 官方文档：[文档地址](https://fund.10jqka.com.cn/public/ijijin-view/dist/)
+- demo：[体验地址](https://fund.10jqka.com.cn/public/ijijin-view-show/dist/)
+
 ijijin-view是根据开发频率抽离业务封装而成的前端库，这里是VueJs的移动端版本，适用于移动端业务开发。
 
 一期(v1.x)组件包含：弹窗、通知、按钮、图标、tab栏、轮播图、滚动通知、输入框、选择器、下拉刷新及上拉弹窗。

@@ -16,7 +16,7 @@
 </template>
 
 <script>
-    import PullWindow from '@/components/PullWindow'
+    import PullWindow from 'ijijin-view/vue/PullWindow'
 
     export default {
         name: "PullWindow",
